@@ -1,8 +1,9 @@
 {
-  "name": "unicode-confusables",
-  "version": "0.1.1",
-  "description": "Utility for finding confusing unicode in strings",
+  "name": "unicode-confusables-non-ascii",
+  "version": "0.1.2",
+  "description": "Utility for finding confusing unicode in strings, no ascii",
   "author": "Ty <lastcanal@gmail.com>",
+  "contributors": ["Dan <danatcern@hotmail..com>"],
   "main": "index.js",
   "types": "index.d.ts",
   "license": "MIT",
